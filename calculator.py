@@ -1,5 +1,5 @@
 import tkinter as tk
-from math import sin, cos, tan, asin, acos, atan, log10, log, sqrt, factorial, e, pi, pow
+from math import sin, cos, tan, asin, acos, atan, log10, log, sqrt, factorial, e, pi, pow 
 
 class ScientificCalculator(tk.Tk):
     def __init__(self):
